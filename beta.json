@@ -1,0 +1,18 @@
+{
+  "versionCode": 100,
+  "versionName": "0.1.0",
+  "apkUrl": "https://stockerupd.bizon.rv.ua/get/077d8dc9-6aac-4efb-8d9d-b0b9a4d2f1e7/app.apk",
+  "sha256": "a6c92fc91d16b892d1d26d942edc71380729a39aa9222944d371bf9a86125cb3",
+  "changelog": "- Перша тестова збірка Stocker\n- Ліцензія (ключі ST-) і самооновлення з бета-каналом\n- Налаштування підключення до бази BAS, сканер (broadcast, HID, камера)\n- Обмін з базою ще не працює: HTTP-сервіс stocker у BAS не готовий",
+  "mandatory": false,
+  "packageName": "ua.stocker.app",
+  "certSha256": "c162995e0301c1e3c482385c2aaea2c8350b1fd415b71d89ced4111c4dee0bb3",
+  "publishedAt": "2026-11-17T21:03:37Z",
+  "history": [
+    {
+      "versionCode": 100,
+      "versionName": "0.1.0",
+      "changelog": "- Перша тестова збірка Stocker\n- Ліцензія (ключі ST-) і самооновлення з бета-каналом\n- Налаштування підключення до бази BAS, сканер (broadcast, HID, камера)\n- Обмін з базою ще не працює: HTTP-сервіс stocker у BAS не готовий"
+    }
+  ]
+}
