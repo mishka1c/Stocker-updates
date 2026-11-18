@@ -1,14 +1,19 @@
 {
-  "versionCode": 103,
-  "versionName": "0.1.3",
-  "apkUrl": "https://stockerupd.bizon.rv.ua/get/df0ba370-3e71-4bf5-aaae-59c5d836aed5/app.apk",
-  "sha256": "37646e8110dad23a68c6f0e5d82d27eedaf0359337cf63bddb5c1507b040973b",
-  "changelog": "- Текст помилки бази BAS: якщо відповідає сама платформа чи публікація, показується її пояснення, а не лише код HTTP.",
+  "versionCode": 104,
+  "versionName": "0.1.4",
+  "apkUrl": "https://stockerupd.bizon.rv.ua/get/b28a9c32-28cb-4b40-a7e4-95e49620b81f/app.apk",
+  "sha256": "8d735d1a372d47fbfdb8a3f5e8ca010fc356e521588ea5e6d05eb6fa79d51fa0",
+  "changelog": "- Підключення до бази BAS з будь-яким режимом повторного використання сеансів (виправлено помилку HTTP 400 «Не вказаний заголовок управління сеансами»).",
   "mandatory": false,
   "packageName": "ua.stocker.app",
   "certSha256": "c162995e0301c1e3c482385c2aaea2c8350b1fd415b71d89ced4111c4dee0bb3",
-  "publishedAt": "2026-11-18T17:16:18Z",
+  "publishedAt": "2026-11-18T17:33:57Z",
   "history": [
+    {
+      "versionCode": 104,
+      "versionName": "0.1.4",
+      "changelog": "- Підключення до бази BAS з будь-яким режимом повторного використання сеансів (виправлено помилку HTTP 400 «Не вказаний заголовок управління сеансами»)."
+    },
     {
       "versionCode": 103,
       "versionName": "0.1.3",
